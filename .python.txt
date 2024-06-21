@@ -1,0 +1,8 @@
+# this is a variable
+#krishna="python"
+#print(krishna)  
+a=int(input())
+if a==10:
+    print("eligible")
+else:
+    print("not eligile")
